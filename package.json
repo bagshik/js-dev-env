@@ -2,7 +2,9 @@
   "name": "js-dev-env",
   "version": "1.0.0",
   "description": "Testing",
-  "scripts": {},
+  "scripts": {
+    "start": "node buildScripts/srcServer.js"
+  },
   "author": "Bakhshi Dashyan",
   "license": "MIT",
   "dependencies": {
